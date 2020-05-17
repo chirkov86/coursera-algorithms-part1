@@ -1,9 +1,10 @@
 /coursera-algorithms-part1.iml
+/out
 /queues/.idea/
 /queues/.lift/
 /queues/RandomizedQueue$MyIterator.class
 /queues/mediumTale.txt
-/queues/Deque.java
+/queues/Deque.class
 /queues/permutation6.txt
 /queues/permutation8.txt
 /queues/permutation4.txt
@@ -11,12 +12,14 @@
 /queues/permutation10.txt
 /queues/Deque$Node.class
 /queues/tale.txt
+/queues/queues.zip
 /queues/distinct.txt
 /queues/permutation5.txt
 /queues/tinyTale.txt
 /queues/Algorithms, Part I.iml
 /queues/duplicates.txt
 /queues/RandomizedQueue.class
+/queues/Permutation.class
 /queues/logo.png
 /percolation/.idea/
 /percolation/.lift/
