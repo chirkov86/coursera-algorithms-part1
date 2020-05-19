@@ -2,6 +2,12 @@
 /out
 /queues/.idea/
 /queues/.lift/
+/collinear/.idea/
+/collinear/.lift/
+/collinear/*.txt
+/collinear/*.png
+/collinear/*.iml
+/collinear/*.class
 /queues/RandomizedQueue$MyIterator.class
 /queues/mediumTale.txt
 /queues/Deque.class
